@@ -105,11 +105,12 @@ if($inText=="/start"){
 	$text = "
 	به ربات الکسا خوش آمدید !
 	برای برسی الکسای سایت خود کافیست در هر زمان آدرس دامنه سایت خود را به صورت زیر برای ربات ارسال کنید !
-	مثال : aliasgharramin.ir
+	مثال : aramin.co
 	
 	کاری از علی اصغر رامین 
-	@aliasgharraminch
-	@aliasghar_ramin
+	@aliasgharramin
+	@AraminCoChannel
+	09128896675
 	
 	دانلود رایگان سورس این ربات :
 	https://goo.gl/8YNSTw
