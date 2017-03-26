@@ -1,6 +1,5 @@
-﻿<?php
-//include ("db.php");
-//include_once('jdf.php');
+<?php
+
 $basedata 		= file_get_contents("php://input");
 $data 		= json_decode(file_get_contents("php://input"), true);
 $botapi = "275868918:AAEyC_Imz8r8nbIOxQD3Kt7mSUF80x7AxUk";
